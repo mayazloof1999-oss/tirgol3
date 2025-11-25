@@ -1,0 +1,52 @@
+.square{
+    width: 300px;
+    height: 300px;
+    border: 2px solid yellow;
+   
+
+
+}
+#sq1{
+background-color: red;
+position:relative;
+top:80px;
+left:80px;
+
+}
+#sq2{
+background-color: green;
+position:absolute;
+bottom:500px;
+left:200px;
+
+
+}
+#sq3{
+background-color: pink;
+position:fixed;
+top:400px;
+right:20px;
+
+}
+
+h3{
+    float:right;
+}
+
+#sq1_1{
+    position:absolute;
+    background-color: blue;
+    top:200px;
+    right:50px;
+}
+
+.square1{
+    width: 50px;
+    height: 50px;
+    border: 2px solid yellow;
+}
+
+#p1{
+    float:right;
+    background-color:purple;
+}
